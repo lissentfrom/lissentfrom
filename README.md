@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Hedge Fund applications, using Java, Python, JavaScript, VueJS, Fast API
+- 🌱 I’m currently learning AI and LLM applications
+- 👯 I’m looking to collaborate on builidng impactful AI applications 
 
 <!--
 **lissentfrom/lissentfrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
