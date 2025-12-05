@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Hedge Fund applications, using Java, Python, JavaScript, VueJS, Docker, Kubernetes, Fast API
-- 🌱 I’m currently learning AI and LLM applications
+- 🌱 I’m currently learning AI and LLM engineering
 - 👯 I’m looking to collaborate on builidng impactful AI applications 
 
 <!--
