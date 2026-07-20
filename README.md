@@ -41,6 +41,19 @@ My background spans financial systems, trading platforms, hedge fund software, a
 
 One of the projects I'm particularly proud of involved building a **Java abstraction layer** that provided a unified query interface across multiple databases and heterogeneous data sources, simplifying enterprise data access while improving maintainability.
 
+### Frontend
+
+- Vue.js
+- AG-Grid
+- JavaScript
+- HTML5
+- CSS3
+- JSP
+- Responsive Web UI
+- Bootstrap
+
+Although most of my career has been backend-focused, I've also built and maintained user interfaces using **Vue.js, JSP, HTML, CSS, and JavaScript**, delivering complete end-to-end enterprise applications.
+
 ## Financial Technology
 
 I've spent much of my career developing software for:
