@@ -20,10 +20,17 @@ My background spans financial systems, trading platforms, hedge fund software, a
 - SOAP Services
 - Enterprise Integration
 
+### Python
+
+- Python
+- Fast API
+- Jupyter
+
 ### Architecture
 
 - Object-Oriented Design
 - Design Patterns
+- Domain Driven Design (DDD)
 - Service-Oriented Architecture (SOA)
 - Layered Architecture
 - Enterprise Application Design
@@ -75,6 +82,7 @@ I'm currently focused on modern AI development, including:
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
+- Fine-tuning LLM Model
 - AI-assisted software development
 - Prompt Engineering
 - AI Agents
@@ -82,7 +90,7 @@ I'm currently focused on modern AI development, including:
 - Vector Databases
 - Embeddings
 - Local AI
-- GitHub Copilot / Cursor / AI coding workflows
+- Cursor / AI coding workflows
 
 I'm especially interested in combining decades of software engineering experience with modern AI tools to build practical, production-ready applications.
 
