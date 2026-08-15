@@ -2,7 +2,7 @@
 
 Financial Technology Architect | Credit & CLO | Software Engineer | Learning AI Engineering
 
-Software architect and engineer d=focused on financial technology, with experience at Goldman Sachs and buy-side firms across hedge funds and CLO/credit management. I enjoy designing scale systems, solving complex financial-data problems, and building practical solutions with modern cloud, distributed systems, and AI technologies.
+Software architect and engineer focused on financial technology, with experience at Goldman Sachs and buy-side firms across hedge funds and CLO/credit management. I enjoy designing scalable systems, solving complex financial-data problems, and building practical solutions with modern cloud, distributed systems, and AI technologies.
 
 ## What I work with
 
